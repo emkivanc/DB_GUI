@@ -1,0 +1,7 @@
+SQL file in database folder.
+
+
+Admin page account:
+
+admin
+admin
